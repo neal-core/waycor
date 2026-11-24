@@ -7,7 +7,7 @@
 
 For many 100L students at Babcock, finding buildings and offices is a significant challenge. Directions are often given using abbreviations such as "meet me at BBS or WRA" or vague landmarks such as "near Babrite." A new student may not know what these abbreviations or landmarks mean, making it difficult to ask for or follow directions.
 
-Most first-year students know only the Main Gate, the Amphitheatre, their own hall, and a few other major locations. They may also know the office they need but not the building where it is located.
+Most first-year students know only the Amphitheatre, the Cafeteria, their own hall, and a few other major locations. They may also know the office they need but not the building where it is located.
 
 Based on team-member experience and interviews with other students, it took approximately 5–8 weeks for students to learn the basic campus abbreviations. Students reported arriving late to or missing approximately 3–5 classes and events in their first semester because they could not find the venue.
 
