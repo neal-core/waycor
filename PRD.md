@@ -1,9 +1,7 @@
 # Product Requirements Document: Waycor
 
 **Course:** BU-COS209 Innovation in Web Design and Development  
-**Team:** Quantum (Team 7)  
-**Version:** 1.0 — Draft  
-**Date:** 24 November 2026
+**Team:** Quantum (Team 7)
 
 ## 1. Problem Statement
 
